@@ -12,10 +12,13 @@ let me use Chinese.
 还有汕头牛肉火锅、汕头肠粉。。。
 
 这是我去杭州旅游拍的照片。
+
+
 <img src="assets/pic1.jpg" alt="me in Hangzhou" height="500px"/>
 <img src="assets/pic2.jpg" alt="me in Hangzhou" height="500px"/>
 <img src="assets/pic3.jpg" alt="me in Hangzhou" height="500px"/>
 
 
 这是我去上海旅游拍的照片。
+
 <img src="assets/shanhai.png" alt="me in Shanhai" height="500px" />
